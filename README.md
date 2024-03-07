@@ -1,7 +1,8 @@
 ***
 Author:   by Umbrellla777 <br/>
 Telegram: [@Umbrellla777](https://t.me/Umbrellla777) <br/>
-VK:       @Umbrellla777 <br/>
+VK:       [@Umbrellla777](https://vk.com/umbrellla777) <br/>
+[My channel](https://t.me/umbrellla777bot) <br/>
 ***
 > [!NOTE]
 > Проект развивается и ведётся работа над добавлением новых команд, следите за новостями.
