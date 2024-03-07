@@ -1,6 +1,6 @@
 ***
 Author:   by Umbrellla777 <br/>
-Telegram: @Umbrellla_l <br/>
+Telegram: [@Umbrellla777](t.me/Umbrellla777) <br/>
 VK:       @Umbrellla777 <br/>
 ***
 > [!NOTE]
