@@ -1,8 +1,8 @@
-####--------------------------------#### <br/>
-#--# Author:   by Umbrellla777      #--# <br/>
-#--# Telegram: @Umbrellla_l         #--# <br/>
-#--# VK:       @Umbrellla777        #--# <br/>
-####--------------------------------#### <br/>
+***
+Author:   by Umbrellla777 <br/>
+Telegram: @Umbrellla_l <br/>
+VK:       @Umbrellla777 <br/>
+***
 > [!NOTE]
 > Проект развивается и ведётся работа над добавлением новых команд, следите за новостями.
 # Umbrellla777-bot
