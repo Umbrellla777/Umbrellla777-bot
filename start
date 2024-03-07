@@ -8,5 +8,4 @@
 
 # Run
 clear
-cd Umbrellla777-bot
 python3 main.py $1 $2
