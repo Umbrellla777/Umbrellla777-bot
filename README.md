@@ -25,7 +25,7 @@ Termux - это бесплатный эмулятор терминала с от
   > Выбираете и устанавливаете нужную вам версию. <br/>
   > Готово. <br/>
 # После установки Termux
-1) Переходим на https://my.telegram.org/  <br/>
+1) Переходим на https://my.telegram.org/apps  <br/>
 Вводим свой номер телефона в поле **Your Phone Number**  <br/>
 После того, как придёт код подтверждения, вводим его в поле **Confirmation code**  <br/>
 И нажимаем кнопку **Sign In**  <br/>
@@ -40,11 +40,14 @@ Termux - это бесплатный эмулятор терминала с от
 **api_id** это такие цифорки типа **1234567**  <br/>
 **api_hash** это и буквы и цифры типа **123sdf123sdf234...**  <br/>
 
-4) Устанавливаем приложение **Termux**.  <br/>
-
-5) Открываем Termux и вставляем в него следующую команду:
+4) Открываем Termux и вставляем в него следующую команду:
 ```bash
-pkg update -y && pkg install -y git && pkg install -y python3 && git clone https://github.com/Umbrellla777/Umbrellla777-bot && cd Umbrellla777-bot && chmod +777 install.sh && sh install.sh && cd ..
+pkg update -y
+pkg install -y git
+pkg install -y python3
+git clone https://github.com/Umbrellla777/Umbrellla777-bot
+cd Umbrellla777-bot
+sh install.sh
 ```
 Коротко объясню команды:
 ```bash
@@ -64,7 +67,7 @@ cd .. # Выход в из директории Umbrellla777-bot
 ***[Завершено] Установка успешна завершена!"***  <br/>
 ***[Запуск] Выполните ./start api_id api_hash"***
 
-6) Запуск скрипта.  <br/>
+5) Запуск скрипта.  <br/>
 В Termux пишем **./start ваш_api_id ваш_api_hash**  <br/>
 Пример команды **./start 1234567 1d12d45fg56g563**  <br/>
 И жмём Enter. Через пару секунд вас попросят еще раз ввести свой номер, вводим, получаем код, вводим код и всё!  <br/>
@@ -72,5 +75,5 @@ cd .. # Выход в из директории Umbrellla777-bot
 При успешном запуске будет полоска:  <br/>
 ***[PROFILE: Моё_Имя | Id: 123345567 | Uname: @MyUserName]***
 
-7) Команды  <br/>
+6) Команды  <br/>
 Весь список команд после запуска бота вызывается командой .help <br/>
