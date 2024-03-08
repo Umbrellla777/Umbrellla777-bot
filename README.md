@@ -40,13 +40,23 @@ Termux - это бесплатный эмулятор терминала с от
 **api_id** это такие цифорки типа **1234567**  <br/>
 **api_hash** это и буквы и цифры типа **123sdf123sdf234...**  <br/>
 
-4) Открываем Termux и вставляем в него следующую команду:
+4) Открываем Termux и вставляем в него следующие команды:
 ```bash
 pkg update -y
+```
+```bash
 pkg install -y git
+```
+```bash
 pkg install -y python3
+```
+```bash
 git clone https://github.com/Umbrellla777/Umbrellla777-bot
+```
+```bash
 cd Umbrellla777-bot
+```
+```bash
 sh install.sh
 ```
 Коротко объясню команды:
